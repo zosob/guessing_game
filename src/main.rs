@@ -32,4 +32,7 @@ fn main() {
         }
 
     }
+    let tup : (u8, i32, f64) = (500, 1, 5.4);
+    let arr : [i32; 5] = [1,2,3,4,5];
+    let arr =[3;5]; //5 elements with 3s
 }
